@@ -128,7 +128,7 @@ export default function AddressForm() {
                     sx={{ marginRight: 4 }}
                     onClick={() => navigate("/main")}
                 >
-                    Cancel
+                    Back
                 </Button>
                 <Button
                     variant="outlined"
